@@ -20,8 +20,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="https://codeforces.com/profile/TarunyaProgrammer">
-    <img src="https://img.shields.io/codeforces/rating/TarunyaProgrammer?style=for-the-badge&logo=codeforces&logoColor=white&color=0d1117" alt="Codeforces Rating"/>
+  <a href="https://codeforces.com/profile/tarunya.programmer">
+    <img src="https://img.shields.io/codeforces/rating/tarunya.programmer?style=for-the-badge&logo=codeforces&logoColor=white&color=0d1117" alt="Codeforces Rating"/>
   </a>
   
   <br>
@@ -56,7 +56,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=TarunyaProgrammer&theme=tokyonight-dark" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=TarunyaProgrammer&theme=tokyonight" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src.="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+  <img src="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837"/>
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 </p>
 
@@ -100,7 +100,7 @@
 
 ### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="httpsKAUST-VRL.png"https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Replit-0d1117?style=for-the-badge&logo=replit&logoColor=F26207"/>
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -115,6 +115,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ My Recent Activity</h3>
+      
       </td>
     <td width="40%" valign="top" align="center">
       <a href="https://discord.com/users/1431012599788474560">
@@ -127,5 +128,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:1f6feb&height=150&section=footer"/>
+  <img src="httpsKAUST-VRL.png"https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:1f6feb&height=150&section=footer"/>
 </p>
