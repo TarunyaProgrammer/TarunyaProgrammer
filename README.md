@@ -19,6 +19,7 @@
   <a href="https://www.instagram.com/heytarunya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="https://codeforces.com/profile/TarunyaProgrammer">
     <img src="https://img.shields.io/codeforces/rating/TarunyaProgrammer?style=for-the-badge&logo=codeforces&logoColor=white&color=0d1117" alt="Codeforces Rating"/>
   </a>
@@ -55,7 +56,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunyaProgrammer&theme=tokyonight-dark" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=TarunyaProgrammer&theme=tokyonight-dark" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -85,7 +86,7 @@
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+  <img src.="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837"/>
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 </p>
 
@@ -114,12 +115,12 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ My Recent Activity</h3>
-      
-      <td width="40%" valign="top" align="center">
-  <a href="https://discord.com/users/1431012599788474560">
-    <img src="https://lanyard.cnrad.dev/api/1431012599788474560?theme=dark&bg=0d1117&borderRadius=8px&showDisplayName=true&hideDiscrim=true" alt="Spotify Now Playing" />
-  </a>
-</td>
+      </td>
+    <td width="40%" valign="top" align="center">
+      <a href="https://discord.com/users/1431012599788474560">
+        <img src="https://lanyard.cnrad.dev/api/1431012599788474560?theme=dark&bg=0d1117&borderRadius=8px&showDisplayName=true&hideDiscrim=true" alt="Spotify Now Playing" />
+      </a>
+    </td>
   </tr>
 </table>
 
