@@ -1,27 +1,42 @@
-# .github/workflows/activity-readme.yml
+# ============================================================
+# 🧩 WORKFLOW: Update Recent GitHub Activity
+# ------------------------------------------------------------
+# This GitHub Action updates your profile README automatically
+# with your latest public GitHub activities every 12 hours.
+# ============================================================
 
-name: Update Recent GitHub Activity
+name: 🪄 Update Recent GitHub Activity
 
 on:
+  # ⏰ Schedule: runs every 12 hours (00:00 & 12:00 UTC)
   schedule:
-    # Runs every 12 hours
     - cron: '0 */12 * * *'
-  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
+  # 🧠 Manual trigger (from the "Actions" tab)
+  workflow_dispatch:
+
+# ------------------------------------------------------------
+# ⚙️ JOBS
+# ------------------------------------------------------------
 jobs:
-  build:
+  update-readme:
+    name: 🧾 Update Profile README with Recent Activity
     runs-on: ubuntu-latest
-    name: Update Profile README with Recent Activity
 
     steps:
-      - uses: actions/checkout@v4
+      # ✅ Step 1: Checkout your repository content
+      - name: 🛠 Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@v0.4.0
+      # ✅ Step 2: Run GitHub Activity updater
+      - name: ⚡ Fetch and update recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@v0.4.0
         env:
-          # This token is automatically provided by GitHub
+          # 🔐 Default GitHub token (no need to create one manually)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          # The commit message for the update
-          COMMIT_MSG: 'chore: update recent GitHub activity'
-          # The number of activities to show
+          # 📝 Commit message used when pushing the updated README
+          COMMIT_MSG: "chore: 🔄 update recent GitHub activity"
+
+          # 📄 Number of recent activities to show
           MAX_LINES: 5
