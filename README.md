@@ -115,12 +115,11 @@
     <td width="60%" valign="top">
       <h3>⚡ My Recent Activity</h3>
       
-      </td>
-    <td width="40%" valign="top" align="center">
-      <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-        <img src="https://spotify-github-profile.vercel.app/api/spotify?user_id=YOUR_SPOTIFY_USER_ID" alt="Spotify Now Playing" />
-      </a>
-    </td>
+      <td width="40%" valign="top" align="center">
+  <a href="https://discord.com/users/1431012599788474560">
+    <img src="https://lanyard.cnrad.dev/api/1431012599788474560?theme=dark&bg=0d1117&borderRadius=8px&showDisplayName=true&hideDiscrim=true" alt="Spotify Now Playing" />
+  </a>
+</td>
   </tr>
 </table>
 
