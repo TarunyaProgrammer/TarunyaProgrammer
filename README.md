@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://codeforces.com/profile/tarunya.programmer">
-  <img src="https://img.shields.io/badge/Rating-~1300-0d1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating"/>
+  <img src="https://img.shields.io/badge/Rating-~900-0d1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating"/>
  </a>
   
   <br>
