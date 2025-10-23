@@ -102,4 +102,32 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="
+  <img src="https://img.shields.io/badge/Replit-0d1117?style=for-the-badge&logo=replit&logoColor=F26207"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
+
+---
+
+## ☕ Fun Zone & Latest Activity
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>⚡ My Recent Activity</h3>
+      
+      </td>
+    <td width="40%" valign="top" align="center">
+      <h3>🎧 Now Listening</h3>
+      <a href="https://discord.com/users/1431012599788474560">
+        <img src="https://lanyard.cnrad.dev/api/1431012599788474560?theme=dark&bg=0d1117&borderRadius=8px&showDisplayName=true&hideDiscrim=true" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16122,100:1f6feb&height=150&section=footer"/>
+</p>
