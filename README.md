@@ -115,7 +115,7 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ My Recent Activity</h3>
-  
+``
       </td>
     <td width="40%" valign="top" align="center">
       <h3>🎧 Now Listening</h3>
