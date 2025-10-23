@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/heytarunya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://codeforces.com/profile/TarunyaProgrammer">
+  <a href="[https://codeforces.com/profile/TarunyaProgrammer](https://codeforces.com/profile/tarunya.programmer)">
     <img src="https://img.shields.io/codeforces/rating/TarunyaProgrammer?style=for-the-badge&logo=codeforces&logoColor=white&color=0d1117" alt="Codeforces Rating"/>
   </a>
   
