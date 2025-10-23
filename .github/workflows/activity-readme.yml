@@ -1,0 +1,27 @@
+# .github/workflows/activity-readme.yml
+
+name: Update Recent GitHub Activity
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README with Recent Activity
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@v0.4.0
+        env:
+          # This token is automatically provided by GitHub
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # The commit message for the update
+          COMMIT_MSG: 'chore: update recent GitHub activity'
+          # The number of activities to show
+          MAX_LINES: 5
