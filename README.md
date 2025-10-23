@@ -21,8 +21,8 @@
   </a>
   
   <a href="https://codeforces.com/profile/tarunya.programmer">
-    <img src="https://img.shields.io/codeforces/rating/tarunya.programmer?style=for-the-badge&logo=codeforces&logoColor=white&color=0d1117" alt="Codeforces Rating"/>
-  </a>
+  <img src="https://img.shields.io/badge/Rating-~1300-0d1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating"/>
+ </a>
   
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TarunyaProgrammer.TarunyaProgrammer&left_text=Visitors" alt="Profile Visitor Count"/>
@@ -33,7 +33,7 @@
 ## 🧑‍💻 About Me
 - 🌐 Full Stack Developer passionate about **modern web apps**
 - 🤖 Exploring **AI/ML** with Python projects  
-- 🎯 Competitive Programmer (**Codeforces Rating ~1300**)  
+- 🎯 Competitive Programmer (**Codeforces Rating ~900**)  
 - 🚀 Always learning & building cool side projects  
 
 ---
@@ -115,7 +115,6 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ My Recent Activity</h3>
-      
       </td>
     <td width="40%" valign="top" align="center">
       <a href="https://discord.com/users/1431012599788474560">
