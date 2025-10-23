@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Replit-0d1117?style=for-the-badge&logo=replit&logoColor=F26207"/>
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="httpsA-freshly-installed-Arch-Linux-desktop-computer.png"https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
@@ -129,5 +129,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16122,100:1f6feb&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:1f6feb&height=150&section=footer"/>
 </p>
