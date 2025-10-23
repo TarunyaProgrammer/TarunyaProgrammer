@@ -19,11 +19,9 @@
   <a href="https://www.instagram.com/heytarunya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  
   <a href="https://codeforces.com/profile/tarunya.programmer">
     <img src="https://img.shields.io/badge/Rating-~1300-0d1117?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating"/>
   </a>
-  
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TarunyaProgrammer.TarunyaProgrammer&left_text=Visitors" alt="Profile Visitor Count"/>
 </p>
@@ -104,21 +102,20 @@
   <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Replit-0d1117?style=for-the-badge&logo=replit&logoColor=F26207"/>
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="httpsA-freshly-installed-Arch-Linux-desktop-computer.png"https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
 
 ## ☕ Fun Zone & Latest Activity
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ My Recent Activity</h3>
+### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-    </td>
-    <td width="40%" valign="top" align="center">
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top" align="center">
       <h3>🎧 Now Listening</h3>
       <a href="https://discord.com/users/1431012599788474560">
         <img src="https://lanyard.cnrad.dev/api/1431012599788474560?theme=dark&bg=0d1117&borderRadius=8px&showDisplayName=true&hideDiscrim=true" alt="Spotify Now Playing" />
