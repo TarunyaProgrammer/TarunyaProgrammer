@@ -112,7 +112,6 @@
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 <table width="100%">
   <tr>
     <td width="100%" valign="top" align="center">
