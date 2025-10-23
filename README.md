@@ -115,8 +115,9 @@
   <tr>
     <td width="60%" valign="top">
       <h3>⚡ My Recent Activity</h3>
-`Exiting!`
-      </td>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+    </td>
     <td width="40%" valign="top" align="center">
       <h3>🎧 Now Listening</h3>
       <a href="https://discord.com/users/1431012599788474560">
