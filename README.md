@@ -82,8 +82,8 @@
 
 ### ⚙️ Backend & Database  
 <p>
-  <img src="httpsall-images-in-this-README-are-broken.png"https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=68A063"/>
-  <img src="https.github/workflows/blog-post-workflow.yml"https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=68A063"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=CB3837"/>
@@ -93,39 +93,13 @@
 ### 🎨 Design & Creativity  
 <p>
   <img src="https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
-  <img src="httpsall-images-in-this-README-are-broken.png"https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-  <img src="https.github/workflows/blog-post-workflow.yml"https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=EA4C89"/>
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Dribbble-0d1117?style=for-the-badge&logo=dribbble&logoColor=EA4C89"/>
   <img src="https://img.shields.io/badge/Behance-0d1117?style=for-the-badge&logo=behance&logoColor=1769FF"/>
-KAUST-VRL.png
+</p>
+
 ### 🛠️ Tools & Platforms  
 <p>
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="httpsall-images-in-this-README-are-broken.png"https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https.github/workflows/blog-post-workflow.yml"https://img.shields.io/badge/Replit-0d1117?style=for-the-badge&logo=replit&logoColor=F26207"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-KAUST-VRL.png  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-</p>
-
----
-
-## ☕ Fun Zone & Latest Activity
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ My Recent Activity</h3>
-      </td>
-    <td width="40%" valign="top" align="center">
-      <h3>🎧 Now Listening</h3>
-      <a href="https://discord.com/users/1431012599788474560">
-        <img src="https://lanyard.cnrad.dev/api/1431012599788474560?theme=dark&bg=0d1117&borderRadius=8px&showDisplayName=true&hideDiscrim=true" alt="Spotify Now Playing" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:1f6feb&height=150&section=footer"/>
-</p>
+  <img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="
