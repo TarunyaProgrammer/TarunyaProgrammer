@@ -111,10 +111,10 @@
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12191](https://github.com/AliceWonderland/hacktoberfest/pull/12191) in [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
-2. 💪 Opened PR [#1](https://github.com/devx25ru/DevX_MarketPlace/pull/1) in [devx25ru/DevX_MarketPlace](https://github.com/devx25ru/DevX_MarketPlace)
-3. 💪 Opened PR [#4](https://github.com/yats0x7/NutriMinds/pull/4) in [yats0x7/NutriMinds](https://github.com/yats0x7/NutriMinds)
-4. 💪 Opened PR [#3](https://github.com/yats0x7/NutriMinds/pull/3) in [yats0x7/NutriMinds](https://github.com/yats0x7/NutriMinds)
+1. 🗣 Commented on [#383](https://github.com/agamjotsingh18/trendhora/issues/383) in [agamjotsingh18/trendhora](https://github.com/agamjotsingh18/trendhora)
+2. 🗣 Commented on [#10](https://github.com/AlizayAyesha/Sunglasses-Store/issues/10) in [AlizayAyesha/Sunglasses-Store](https://github.com/AlizayAyesha/Sunglasses-Store)
+3. 🗣 Commented on [#954](https://github.com/Ayushparikh-code/Web-dev-mini-projects/issues/954) in [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
+4. 💪 Opened PR [#36](https://github.com/Shailaja-poojari/hacktoberfest-2025/pull/36) in [Shailaja-poojari/hacktoberfest-2025](https://github.com/Shailaja-poojari/hacktoberfest-2025)
 <!--END_SECTION:activity-->
 <table width="100%">
   <tr>
