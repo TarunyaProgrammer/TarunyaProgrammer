@@ -111,7 +111,7 @@
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/AlizayAyesha/Sunglasses-Store/pull/35) in [AlizayAyesha/Sunglasses-Store](https://github.com/AlizayAyesha/Sunglasses-Store)
+1. 💪 Opened PR [#1](https://github.com/archit2703/GhostsHQ/pull/1) in [archit2703/GhostsHQ](https://github.com/archit2703/GhostsHQ)
 2. 🗣 Commented on [#383](https://github.com/agamjotsingh18/trendhora/issues/383) in [agamjotsingh18/trendhora](https://github.com/agamjotsingh18/trendhora)
 3. 🗣 Commented on [#10](https://github.com/AlizayAyesha/Sunglasses-Store/issues/10) in [AlizayAyesha/Sunglasses-Store](https://github.com/AlizayAyesha/Sunglasses-Store)
 4. 🗣 Commented on [#954](https://github.com/Ayushparikh-code/Web-dev-mini-projects/issues/954) in [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
