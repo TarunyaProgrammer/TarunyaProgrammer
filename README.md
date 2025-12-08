@@ -8,7 +8,7 @@
   <tr>
     <!-- Left Column: Bio & Context -->
     <td width="55%" valign="top">
-      <h1>👋 Hello, World!</h1>
+      <h2>👋 Hello, World!</h2>
       <p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=25c2a0&width=435&lines=Building+Scalable+Web+Apps;Exploring+the+Depths+of+AI%2FML;Solving+Problems+at+Speed" alt="Typing SVG" />
       </p>
@@ -101,7 +101,7 @@
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://github.com/TarunyaProgrammer/TarunyaProgrammer/blob/output/github-snake-dark.svg" width="100%" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/TarunyaProgrammer/TarunyaProgrammer/output/github-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 <br/>
