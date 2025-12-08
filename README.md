@@ -37,7 +37,7 @@
       </div>
     </td>
     <td width="45%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
@@ -73,11 +73,7 @@
 <h2 align="center">📊 The Numbers Game</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=TarunyaProgrammer&theme=radical&hide_border=true" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TarunyaProgrammer&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" />
 </div>
 
 ---
