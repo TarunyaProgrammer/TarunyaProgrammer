@@ -47,13 +47,21 @@
       <table border="0" width="100%">
         <tr>
           <td align="center">
-             <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" height="40" alt="Languages" />
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" height="40" alt="Languages" />
+             </a>
              <br/><br/>
-             <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="40" alt="Frontend" />
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="40" alt="Frontend" />
+             </a>
              <br/><br/>
-             <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="40" alt="Backend" />
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="40" alt="Backend" />
+             </a>
              <br/><br/>
-             <img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="40" alt="Tools" />
+             <a href="https://skillicons.dev">
+               <img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="40" alt="Tools" />
+             </a>
           </td>
         </tr>
       </table>
