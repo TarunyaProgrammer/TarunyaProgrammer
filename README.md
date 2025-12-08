@@ -1,78 +1,113 @@
-# Hey, I'm Tarunya 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:000000&height=180&section=header&text=Tarunya&fontSize=90&fontAlignY=38&fontColor=25c2a0&desc=Architecting%20%20Systems%20%20|%20%20Breaking%20%20Code&descAlignY=65&descSize=16&animation=twinkling&stroke=25c2a0&strokeWidth=1" alt="Header" width="100%"/>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=28&pause=1000&color=33CCFF&width=600&lines=Full+Stack+Magician...;AI%2FML+Explorer...;Competitive+Programmer...;Turning+Coffee+Into+Code..." alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunyakesharwani/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TarunyaProgrammer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/heytarunya/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tarunya.programmer)
-
----
-
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
+    <!-- Left Column: Bio & Context -->
     <td width="55%" valign="top">
-      <h2>⚡ About Me</h2>
+      <h1>👋 Hello, World!</h1>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=25c2a0&width=435&lines=Building+Scalable+Web+Apps;Exploring+the+Depths+of+AI%2FML;Solving+Problems+at+Speed" alt="Typing SVG" />
+      </p>
+      
       <blockquote>
-        "Code is like humor. When you have to explain it, it’s bad."
+        <p><em>"First, solve the problem. Then, write the code."</em> — John Johnson</p>
       </blockquote>
-      <br />
+      
+      <h3>🚀 <strong>Current Focus</strong></h3>
+      <p>I am a Full Stack Developer obsessed with <strong>performance</strong> and <strong>clean architecture</strong>. Currently diving deep into:</p>
       <ul>
-        <li>� I’m currently working on <strong>Full Stack Web Apps</strong></li>
-        <li>🌱 I’m currently learning <strong>Deep Learning & NLP</strong></li>
-        <li>🎯 Goals: <strong>Master System Design & Crack 1800+ on Codeforces</strong></li>
-        <li>⚡ Fun fact: <strong>I can debug cooler than I can dress.</strong></li>
+        <li>⚛️ <strong>Advanced React Patterns</strong></li>
+        <li>🧠 <strong>Natural Language Processing (NLP)</strong></li>
+        <li>⚡ <strong>System Design for High Scale</strong></li>
       </ul>
+
+      <br/>
+
+      <h3>🌐 <strong>Connect</strong></h3>
+      <p>
+        <a href="https://www.linkedin.com/in/tarunyakesharwani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+        <a href="https://github.com/TarunyaProgrammer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+        <a href="https://codeforces.com/profile/tarunya.programmer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="28"/></a>
+      </p>
       <br />
-      <div>
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=TarunyaProgrammer.TarunyaProgrammer&left_text=Profile%20Views&right_color=hotpink&left_color=black" alt="visitors" />
+       <img src="https://visitor-badge.laobi.icu/badge?page_id=TarunyaProgrammer.TarunyaProgrammer&left_text=Visits&right_color=25c2a0&left_color=black" alt="visitors" />
+    </td>
+
+    <!-- Right Column: Tech Stack "Control Center" -->
+    <td width="42%" valign="top">
+      <div align="center">
+        <h3>🛠️ <strong>The Arsenal</strong></h3>
+      </div>
+
+      <!-- Tech Stack Grid -->
+      <table border="0" width="100%">
+        <tr>
+          <td align="center">
+             <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" height="40" alt="Languages" />
+             <br/><br/>
+             <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="40" alt="Frontend" />
+             <br/><br/>
+             <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="40" alt="Backend" />
+             <br/><br/>
+             <img src="https://skillicons.dev/icons?i=git,docker,linux,figma" height="40" alt="Tools" />
+          </td>
+        </tr>
+      </table>
+
+      <br/>
+
+      <div align="center">
+        <!-- Compact Top Langs Card -->
+        <a href="https://github.com/TarunyaProgrammer">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0" width="100%" alt="Top Langs" />
+        </a>
       </div>
     </td>
-    <td width="45%" valign="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-    </td>
+
   </tr>
 </table>
 
----
+<br/>
 
-<h2>🚀 Tech Galaxy</h2>
+<!-- Full Width Stats Section -->
+<h2 align="center">📊 <strong>GitHub Analytics</strong></h2>
 
-### Frontend
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&count_private=true" width="95%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunyaProgrammer&theme=radical&hide_border=true&background=0D1117&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0" width="95%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  
-  ### Backend & Database
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  ### Tools
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<br/>
 
----
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://github.com/TarunyaProgrammer/TarunyaProgrammer/blob/output/github-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
 
-<h2>📊 The Numbers Game</h2>
+<br/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Github Stats" />
+<!-- Collapsible Activity Log -->
+<details>
+  <summary><h3>📉 <strong>Recent Activity Log</strong> (Click to Expand)</h3></summary>
+  <br/>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
----
+<br/>
 
-<h2>📈 Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#1](https://github.com/archit2703/GhostsHQ/pull/1) in [archit2703/GhostsHQ](https://github.com/archit2703/GhostsHQ)
-2. 🗣 Commented on [#383](https://github.com/agamjotsingh18/trendhora/issues/383) in [agamjotsingh18/trendhora](https://github.com/agamjotsingh18/trendhora)
-3. 🗣 Commented on [#10](https://github.com/AlizayAyesha/Sunglasses-Store/issues/10) in [AlizayAyesha/Sunglasses-Store](https://github.com/AlizayAyesha/Sunglasses-Store)
-4. 🗣 Commented on [#954](https://github.com/Ayushparikh-code/Web-dev-mini-projects/issues/954) in [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)
-<!--END_SECTION:activity-->
-
-<br />
+<div align="center">
+  <small><em>Designed with ❤️ by Tarunya</em></small>
+</div>
