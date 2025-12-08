@@ -72,7 +72,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=25c2a0&icon_color=25c2a0&count_private=true" width="95%" />
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunyaProgrammer&theme=radical&hide_border=true&background=0D1117&ring=25c2a0&fire=25c2a0&currStreakLabel=25c2a0" width="95%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=TarunyaProgrammer&theme=radical&no-frame=true&column=4&margin-w=15" width="95%" />
 </td>
 </tr>
 </table>
@@ -81,13 +81,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/TarunyaProgrammer/TarunyaProgrammer/output/github-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
-<br/>
-<details>
-<summary><h3>📉 <strong>Recent Activity Log</strong> (Click to Expand)</h3></summary>
-<br/>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
 <br/>
 <div align="center">
 <small><em>Designed with ❤️ by Tarunya</em></small>
