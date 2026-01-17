@@ -15,15 +15,49 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-I'm a developer who believes in **building real solutions to real problems**—no matter how small. My focus is on creating reliable, user-centric applications with clean code and thoughtful architecture.
+<div align="center">
+  
+### I'm a developer who believes in **building real solutions to real problems**—no matter how small.
 
-- 🔭 Currently mastering **React ecosystem** and modern JavaScript patterns
-- 🌱 Exploring **AI/ML fundamentals** to understand the tech behind tools like ChatGPT
-- 🎯 Goal: Evolve from building projects to architecting scalable, production-ready systems
-- 💡 Philosophy: Show up every day, ship often, learn constantly
-- 🏆 **SWoC Selected Contributor** | Preparing for **GSoC 2026**
+My focus is on creating **reliable, user-centric applications** with clean code and thoughtful architecture. From offline-first PWAs to AI-powered automation tools, I love exploring the intersection of **practical utility** and **cutting-edge tech**.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💭 **Philosophy**
+
+I don't just code—I **solve problems**. Whether it's building an offline-first expense tracker or automating RFP responses with AI, I focus on creating tools that people actually want to use.
+
+> *"The best code ships and solves real problems."*
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 **Current Focus**
+
+- 🔨 Mastering **React hooks, Context API & performance optimization**
+- 🤖 Exploring **AI/ML** to understand what powers tools like ChatGPT
+- 🌐 Building **PWAs** that work seamlessly offline
+- 🏆 Contributing to **AsyncAPI** & preparing for **GSoC 2026**
+
+</td>
+</tr>
+</table>
+
+### 🌟 **Quick Highlights**
+
+- ✅ **SWoC Selected Contributor** — Making meaningful open source contributions
+- 🎓 Evolved from tutorial hell to shipping **12+ production-ready projects**
+- 💡 Passionate about **offline-first architecture** & **developer tooling**
+- 🔥 Building in public, learning in public, failing in public (and that's okay!)
+- 🎯 **Goal:** Transform from building projects → architecting scalable systems
+
+**Fun Fact:** I once built a habit tracker just to track the habit of building habit trackers. Meta? Yes. Useful? Absolutely. 😄
 
 ---
 
