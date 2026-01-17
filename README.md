@@ -1,106 +1,219 @@
-<h1 align="center">Hi, I'm Tarunya 👋</h1>
-<h3 align="center">Frontend Developer learning to build reliable, real-world apps.</h3>
+<div align="center">
 
-<br/>
+# 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐓𝐚𝐫𝐮𝐧𝐲𝐚 👋
 
-<p align="center">
-  I am a developer currently focusing on **React** and **modern JavaScript**.  
-  <br/>
-  I enjoy building things that work offline and understanding the "why" behind the code.  
-  My goal is to grow from building small projects to maintaining robust systems.
-</p>
+### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 | 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛
 
-<br/>
+*𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘵𝘩𝘢𝘵 𝘸𝘰𝘳𝘬 𝘰𝘧𝘧𝘭𝘪𝘯𝘦, 𝘰𝘯𝘭𝘪𝘯𝘦, 𝘢𝘯𝘥 𝘦𝘷𝘦𝘳𝘺𝘸𝘩𝘦𝘳𝘦 𝘪𝘯 𝘣𝘦𝘵𝘸𝘦𝘦𝘯*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunyakesharwani/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TarunyaProgrammer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tarunyak/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tarunya.programmer)
+
+</div>
 
 ---
 
-## 🔭 What I’m Working On
+## 🚀 About Me
 
-I believe in fixing real problems, even small ones. Here is what I am building right now:
+I'm a developer who believes in **building real solutions to real problems**—no matter how small. My focus is on creating reliable, user-centric applications with clean code and thoughtful architecture.
+
+- 🔭 Currently mastering **React ecosystem** and modern JavaScript patterns
+- 🌱 Exploring **AI/ML fundamentals** to understand the tech behind tools like ChatGPT
+- 🎯 Goal: Evolve from building projects to architecting scalable, production-ready systems
+- 💡 Philosophy: Show up every day, ship often, learn constantly
+- 🏆 **SWoC Selected Contributor** | Preparing for **GSoC 2026**
+
+---
+
+## 🛠️ Tech Arsenal
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>💸 Budgettt (PWA)</h3>
-      <p>
-        An <strong>offline-first expense tracker</strong>. I built this to understand how web apps can work without the internet using Service Workers and IndexedDB.
-      </p>
-      <p><strong>Tech:</strong> React, Custom Hooks, LocalStorage/IndexedDB</p>
-      <a href="https://github.com/TarunyaProgrammer">View Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🌱 Learning Playground</h3>
-      <p>
-         A collection of small experiments where I try out new things like <strong>NLP basics</strong>, <strong>React Performance</strong> tricks, and <strong>Node.js</strong> APIs.
-      </p>
-      <p><strong>Tech:</strong> JavaScript, Python, Node.js</p>
-      <a href="https://github.com/TarunyaProgrammer">View Repo</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
+
+**UI Libraries:** Flowbite • Lucide Icons • Framer Motion
+
+**State & Storage:** Context API • LocalStorage • IndexedDB
+
+</td>
+<td width="50%" valign="top">
+
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**AI/ML:** TensorFlow • NumPy • NLP Fundamentals
+
+**Python GUI:** Tkinter • Desktop App Development
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+**Open Source Contributor** • **Agile Workflow** • **CI/CD Basics**
+
+</td>
+</tr>
 </table>
 
-<br/>
+---
 
-## �️ My Learning Journey
+## 💻 Featured Projects
 
-I am not an expert yet, but I am showing up every day.
+### 🤖 [RFP-ResponseBuilder](https://github.com/TarunyaProgrammer/RFP-ResponseBuilder)
+**AI-Powered Proposal Automation System**
 
-- **Right Now**: Strengthening my core **React** skills (Hooks, Context, State Management).
-- **Experimenting With**: Basic **AI/ML concepts** (Tokenizers, Embeddings) to understand how tools like ChatGPT work under the hood.
-- **Goal**: To become a reliable **Full Stack Developer** who can design scalable systems.
+Automates professional RFP responses using contextual AI reasoning and document parsing.
 
-<br/>
+`React` `Node.js` `OpenAI API` `LangChain` `Tailwind`
 
-## 🛠️ Tech Stack using
+**Key Features:** Automated draft generation • PDF/Word parsing • Custom knowledge-base • Response refinement
 
-These are the tools I am comfortable using or actively learning:
+---
 
-| **Domain**    | **Technologies**                                  |
-| :------------ | :------------------------------------------------ |
-| **Frontend**  | React, JavaScript (ES6+), HTML5/CSS3, TailwindCSS |
-| **Backend**   | Node.js (Basic), Express.js                       |
-| **AI / Data** | Python (Basics), NumPy, NLP Fundamentals          |
-| **Database**  | MongoDB, LocalStorage/IndexedDB                   |
-| **Tools**     | Git, GitHub, VS Code, Postman                     |
+### 🔥 [Streakly](https://github.com/TarunyaProgrammer/Streakly-Habit-Discipline-System)
+**Gamified Habit & Streak Tracker**
 
-<br/>
+Building discipline through visual momentum and behavioral gamification.
 
-## 🌍 Open Source & Community
+`JavaScript` `Firebase` `LocalStorage`
 
-I am just getting started with open source and looking forward to contributing more.
+**Key Features:** Daily streak tracking • Habit categorization • Progress visualization • Smart reminders
 
-- ✅ **Social Winter of Code (SWoC)**: Selected Contributor.
-- 🎯 **Google Summer of Code (GSoC 2026)**: Preparing and learning the codebase.
-- 🌱 **Interests**: AsyncAPI, Developer Tools, and Educational content.
+---
 
-<br/>
+### 💸 [Student Expense Tracker](https://github.com/TarunyaProgrammer/Student-expense-tracker)
+**Offline-First Finance Manager**
 
-## 📊 Activity & Stats
+Privacy-first PWA + Chrome extension for effortless expense logging that works completely offline.
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=TarunyaProgrammer&theme=radical&no-frame=true&column=4&margin-w=15" height="110" />
-</p>
+`Vanilla JS` `IndexedDB` `Firebase` `Tailwind`
 
-<br/>
+**Key Features:** 100% offline functionality • INR-focused • Budget alerts • Browser-level persistence
 
-## 🤝 Connect With Me
+---
 
-I am always open to discussing frontend tech, open source, or just coding in general.
+### 🧠 [MindBridge](https://github.com/TarunyaProgrammer/MindBridge)
+**Mental Wellness Support Platform**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tarunyakesharwani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/TarunyaProgrammer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/tarunya.programmer">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+Connecting users with AI-assisted mental health resources and mood tracking.
+
+`Next.js` `Clerk Auth` `Supabase` `Tailwind`
+
+**Key Features:** Mood tracking • Resource library • Secure communications • Privacy-focused
+
+---
+
+### 🥗 [NutriMinds FoodLens](https://github.com/TarunyaProgrammer/NutriMinds_FoodLens)
+**AI-Driven Nutrition Scanner**
+
+Image recognition meets nutrition—snap a photo, get instant nutritional analysis.
+
+`Python` `TensorFlow` `Flask` `React`
+
+**Key Features:** Food classification • Nutrition extraction • Daily intake logs • ML-powered detection
+
+---
+
+### 🎬 [Netflix Frontend Clone](https://github.com/TarunyaProgrammer/Netflix-Frontend-Clone)
+**Pixel-Perfect Streaming UI**
+
+Recreation of Netflix's interface showcasing advanced responsive layouts and API integration.
+
+`React` `TMDB API` `Tailwind`
+
+**Key Features:** Dynamic movie sliders • Trailer integration • Mobile-first design
+
+---
+
+<details>
+<summary><b>🔍 View More Projects</b></summary>
+
+### 💳 [Ego Money Transfer](https://github.com/TarunyaProgrammer/Ego-MoneyTransfer)
+Fintech wallet prototype demonstrating secure transfer flows and transaction management.
+
+### 🤖 [TarGPT](https://github.com/TarunyaProgrammer/TarGPT)
+Custom GPT-powered assistant with real-time conversations and multi-model support.
+
+### 🌤 [Skycast Web](https://github.com/TarunyaProgrammer/skycast_web)
+Real-time weather platform with 7-day forecasts and immersive visuals.
+
+### ⚙️ [Devify](https://github.com/TarunyaProgrammer/Devify)
+Developer utility platform for GitHub insights and repository analysis.
+
+### 🎓 [Responsive Education Website](https://github.com/TarunyaProgrammer/Responsive-Education-Website)
+Multi-page academic template with smooth animations and modern layout.
+
+### 🐍 [Snake Game](https://github.com/TarunyaProgrammer/Snake-Game)
+Modern twist on the classic arcade game with enhanced gameplay mechanics.
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TarunyaProgrammer&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=TarunyaProgrammer&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing **frontend architecture**, **open source opportunities**, **AI/ML applications**, or just geeking out about code.
+
+**Open to:** Collaborations • Freelance • Open Source Contributions • Mentorship
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunyakesharwani/)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best code is the code that ships and solves real problems."*
+
+⭐️ From [TarunyaProgrammer](https://github.com/TarunyaProgrammer)
+
+</div>
