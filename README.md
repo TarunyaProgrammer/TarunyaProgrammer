@@ -1,91 +1,82 @@
 # Hi, I’m Tarunya
 
-Frontend-focused developer who enjoys turning **messy problems into usable systems**.  
+Frontend-focused developer interested in **building reliable, user-facing systems**.  
 Currently exploring **frontend architecture, offline-first applications, and open source**.
-
----
 
 ## About
 
-I like working on problems where **usability, performance, and maintainability** all matter —
-especially when tradeoffs are unavoidable.
+I like working on problems where **real-world constraints** shape the solution —
+offline usage, imperfect data, and evolving requirements.
 
-I’m most comfortable in the frontend, but I care deeply about how systems behave as a whole.
-I value **clarity over cleverness**, and I try to write code that someone else can confidently extend.
-
----
+I value **clarity over cleverness** and aim to write code that remains understandable
+as projects grow.
 
 ## Selected Work
 
-### RFP Response Builder
-A system to assist in drafting structured RFP responses from large, unstructured documents.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**What I focused on**
-- Turning an ambiguous business workflow into clear system boundaries  
-- Designing UI around real user actions instead of ideal paths  
-- Keeping the frontend predictable even when the data is not  
+**Student Expense Tracker**  
+Offline-first PWA for students.
 
-**Tech:** React, Node.js
+A privacy-first expense tracker designed to work entirely offline using browser storage.
+Built with a focus on predictable state, IndexedDB persistence, and real student workflows.
 
----
+*Vanilla JavaScript · IndexedDB · PWA APIs*
 
-### Student Expense Tracker (Offline-First)
-A privacy-first expense tracker designed to work fully offline.
+</td>
+<td width="50%" valign="top">
 
-**What I focused on**
-- Treating offline as a primary state, not a fallback  
-- IndexedDB-based persistence and browser storage constraints  
-- Designing UX that remains understandable without sync  
+**Open Source Contributions**
 
-**Tech:** Vanilla JavaScript, IndexedDB
+I work with existing open source codebases to understand how real systems evolve and
+how maintainers balance usability, consistency, and long-term maintainability.
 
----
+Recent work includes frontend and documentation contributions to projects like
+Jaeger UI and the AsyncAPI website.
 
-### Netflix UI Clone
-A frontend exercise focused on layout, composition, and responsiveness.
+</td>
+</tr>
+</table>
 
-**What I focused on**
-- Component structure and reuse  
-- Responsive behavior across breakpoints  
-- Avoiding unnecessary abstraction  
 
-**Tech:** React, Tailwind CSS
+<details>
+<summary><strong>Additional Work</strong></summary>
 
-> Additional projects are available on my GitHub profile.
+- **RFP Response Builder** — UI-driven system for structuring unstructured documents  
+- **Netflix UI Clone** — Responsive layout and component composition exercise  
+- **Streakly** — Habit tracking with visual feedback loops  
 
----
+</details>
+
 
 ## Technical Skills
 
-**Frontend**
-- JavaScript (ES6+)
-- React (hooks, component patterns)
-- HTML, CSS, responsive design
-- Tailwind CSS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Data**
-- Node.js, Express
-- MongoDB
-- Firebase
+**Frontend**  
+JavaScript (ES6+), React (hooks, component patterns), HTML, CSS, responsive design,
+Tailwind CSS.
 
-**Tools**
-- Git & GitHub
-- Docker (basics)
-- Vercel / Netlify
-- Postman
+</td>
+<td width="50%" valign="top">
 
----
+**Backend & Tools**  
+Node.js, Express, MongoDB, Firebase, Git & GitHub, Docker (basics),
+Vercel / Netlify.
+
+</td>
+</tr>
+</table>
 
 ## Open Source & Learning
 
 - Selected Contributor — **SWoC**
-- Preparing for **GSoC 2026**
-- Interested in projects involving:
-  - Frontend systems
-  - Developer tooling
-  - Documentation & DX
-
----
+- Actively engaging with open source projects and maintainers
+- Interested in frontend systems, developer tooling, and developer experience (DX)
 
 ## Contact
 
@@ -94,4 +85,4 @@ A frontend exercise focused on layout, composition, and responsiveness.
 
 ---
 
-I care about writing code that is **easy to reason about today and safe to modify tomorrow**.
+I care about writing code that is **easy to reason about today and safe to change tomorrow**.
