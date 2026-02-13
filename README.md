@@ -1,14 +1,15 @@
 # Hi, I’m Tarunya
 
-Frontend-focused developer interested in **building reliable, user-facing systems**.  
-Currently exploring **frontend architecture, offline-first applications, and open source**.
+Full-stack (MERN + TypeScript) developer interested in building reliable,
+user-facing systems and offline-capable web applications.  
+Currently exploring frontend architecture, PWAs, and open source ecosystems.
 
 ## About
 
-I like working on problems where **real-world constraints** shape the solution —
+I like working on problems where real-world constraints shape the solution —
 offline usage, imperfect data, and evolving requirements.
 
-I value **clarity over cleverness** and aim to write code that remains understandable
+I value clarity over cleverness and aim to write code that remains understandable
 as projects grow.
 
 ## Selected Work
@@ -20,8 +21,9 @@ as projects grow.
 **Student Expense Tracker**  
 Offline-first PWA for students.
 
-A privacy-first expense tracker designed to work entirely offline using browser storage.
-Built with a focus on predictable state, IndexedDB persistence, and real student workflows.
+Privacy-first expense tracking designed to work entirely offline using browser
+storage. Focused on predictable state, IndexedDB persistence, and real student
+workflows.
 
 *Vanilla JavaScript · IndexedDB · PWA APIs*
 
@@ -30,26 +32,25 @@ Built with a focus on predictable state, IndexedDB persistence, and real student
 
 **Open Source Contributions**
 
-I work with existing open source codebases to understand how real systems evolve and
+I contribute to established codebases to understand how real systems evolve and
 how maintainers balance usability, consistency, and long-term maintainability.
 
-Recent work includes frontend and documentation contributions to projects like
-Jaeger UI and the AsyncAPI website.
+Work includes frontend and documentation contributions in ecosystems such as
+Jaeger UI and Meshery.
 
 </td>
 </tr>
 </table>
 
-
 <details>
 <summary><strong>Additional Work</strong></summary>
 
+- **MERN Chat Application** — full-stack chat with authentication and state sync  
 - **RFP Response Builder** — UI-driven system for structuring unstructured documents  
-- **Netflix UI Clone** — Responsive layout and component composition exercise  
-- **Streakly** — Habit tracking with visual feedback loops  
+- **Streakly** — habit tracking with visual feedback loops  
+- **Netflix UI Clone** — responsive layout and component composition exercise  
 
 </details>
-
 
 ## Technical Skills
 
@@ -57,16 +58,16 @@ Jaeger UI and the AsyncAPI website.
 <tr>
 <td width="50%" valign="top">
 
-**Frontend**  
-JavaScript (ES6+), React (hooks, component patterns), HTML, CSS, responsive design,
-Tailwind CSS.
+**Frontend & Web**  
+TypeScript, JavaScript (ES6+), React, HTML, CSS, responsive design,  
+Tailwind CSS, Bootstrap, Flowbite, IndexedDB, PWA APIs, browser storage, DOM APIs
 
 </td>
 <td width="50%" valign="top">
 
-**Backend & Tools**  
-Node.js, Express, MongoDB, Firebase, Git & GitHub, Docker (basics),
-Vercel / Netlify.
+**Backend & Platforms**  
+Node.js, Express, MongoDB, Mongoose, Firebase, REST APIs, authentication (JWT/sessions),  
+Vercel, Netlify, Render, GitHub Pages, MongoDB Atlas
 
 </td>
 </tr>
@@ -74,9 +75,10 @@ Vercel / Netlify.
 
 ## Open Source & Learning
 
-- Selected Contributor — **SWoC**
-- Actively engaging with open source projects and maintainers
-- Interested in frontend systems, developer tooling, and developer experience (DX)
+- Contributor — Meshery & Jaeger ecosystems  
+- Selected Contributor — SWoC  
+- Interested in frontend systems, developer tooling, and DX  
+- Currently expanding into Go and Kubernetes
 
 ## Contact
 
@@ -85,4 +87,4 @@ Vercel / Netlify.
 
 ---
 
-I care about writing code that is **easy to reason about today and safe to change tomorrow**.
+I care about writing code that is easy to reason about today and safe to change tomorrow.
