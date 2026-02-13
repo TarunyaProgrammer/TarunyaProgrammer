@@ -57,58 +57,75 @@ Jaeger UI and Meshery (CNCF).
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Frontend & Browser Platform**  
-TypeScript · JavaScript (ES6+) · React · React Router · Redux · TanStack Query  
-HTML · CSS · Tailwind · Bootstrap · Flowbite · Responsive design  
-DOM APIs · Fetch API · Browser events · LocalStorage/SessionStorage · IndexedDB  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/>
+</p>
+
+TypeScript · JavaScript · React · React Router · Redux · TanStack Query ·  
+HTML · CSS · Tailwind · Bootstrap · Flowbite · Responsive design ·  
+DOM APIs · Fetch API · Browser events · LocalStorage/SessionStorage · IndexedDB ·  
 PWA APIs · Service Workers · Web App Manifest · Offline caching  
 
-</td>
-<td width="50%" valign="top">
+---
 
 **Backend, Data & Auth**  
-Node.js · Express · REST APIs · MVC architecture · Middleware patterns  
-MongoDB · Mongoose · nanoid  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+</p>
+
+Node.js · Express · REST APIs · MVC architecture · Middleware patterns ·  
+MongoDB · Mongoose · nanoid ·  
 JWT · Sessions · Cookies · bcrypt · RBAC concepts · Token lifecycle  
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 **Cloud, Deployment & Platforms**  
-Vercel · Render · Netlify · Firebase · GitHub Pages · MongoDB Atlas  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+</p>
+
+Vercel · Render · Netlify · Firebase · GitHub Pages · MongoDB Atlas ·  
 Jekyll · Markdown · WordPress · Static site workflows  
 
-</td>
-<td width="50%" valign="top">
+---
 
 **Tooling & Workflow**  
-Git · GitHub · npm · package.json scripts · ES Modules  
-Vite · Nodemon · Postman · Environment configs (.env)  
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
+</p>
+
+Git · GitHub · npm · package.json scripts · ES Modules ·  
+Vite · Nodemon · Postman · Environment configs (.env) ·  
 Figma · Canva  
 
-</td>
-</tr>
-</table>
+---
 
-## AI & Data-Driven Apps
+**AI & Data-Driven Apps**  
+OpenAI API · Google Gemini API · Groq API  
 
-I integrate AI capabilities into web applications using:
+**Open Source & Learning**  
+Contributor — Meshery & Jaeger ecosystems  
+Selected Contributor — SWoC  
+Interested in frontend systems, developer tooling, and DX  
+Expanding into Go and Kubernetes
 
-OpenAI API · Google Gemini API · Groq API
-
-## Open Source & Learning
-
-- Contributor — Meshery & Jaeger ecosystems  
-- Selected Contributor — SWoC  
-- Interested in frontend systems, developer tooling, and DX  
-- Expanding into Go and Kubernetes  
 
 ## Contact
 
