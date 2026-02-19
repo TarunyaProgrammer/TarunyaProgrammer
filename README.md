@@ -1,16 +1,17 @@
-# Hi, I’m Tarunya
+# Hi, I'm Tarunya
 
-Full-stack (MERN + TypeScript) developer focused on building reliable,
-user-facing systems and offline-capable web applications.  
-I work across modern browser APIs, React data architectures, and
-Node/Express backends with authentication and persistence.
+Full-stack developer who builds things that hold up under real conditions —
+offline, at scale, and in production.
 
-Currently exploring PWAs, frontend architecture, and cloud-native open source.
+I work across the full MERN stack: React data architectures and browser APIs
+on the front, Node/Express with auth and persistence on the back, and
+WebSockets when state needs to stay in sync across clients in real time.
 
+Currently going deeper on PWAs, frontend systems design, and cloud-native open source.
 ## About
 
 I like working on problems where real-world constraints shape the solution —
-offline usage, imperfect data, and evolving requirements.
+real-time sync, offline usage, imperfect data, and evolving requirements.
 
 I value clarity over cleverness and aim to write code that remains understandable
 as systems grow.
@@ -21,25 +22,31 @@ as systems grow.
 <tr>
 <td width="50%" valign="top">
 
-**Student Expense Tracker**  
-Offline-first PWA for students.
+**[Echo — Real-Time Chat Application](https://echotarunya.vercel.app)**  
+Production-deployed MERN fullstack app.
 
-Privacy-first expense tracking designed to work entirely offline using
-IndexedDB and browser storage. Focused on predictable state, persistence,
-and real student workflows.
+Built to work the way real chat does — instant delivery, live presence, secure sessions,
+and a UI that holds up on any screen. Engineered with Socket.io, Zustand, and JWT auth;
+documented well enough that someone else could contribute to it.
 
-*Vanilla JavaScript · IndexedDB · PWA APIs*
-
+*React · Node.js · Express · MongoDB · Socket.io · Zustand · Tailwind · JWT*
 </td>
 <td width="50%" valign="top">
 
 **Open Source Contributions**
 
-I contribute to established codebases to understand how real systems evolve and
-how maintainers balance usability, consistency, and long-term maintainability.
+I contribute to production codebases to understand how real systems are maintained
+at scale — how teams make decisions about consistency, DX, and long-term
+architecture.
 
-Work includes frontend and documentation contributions in ecosystems such as
-Jaeger UI and Meshery (CNCF).
+Active across multiple ecosystems:
+- **Jaeger** (@jaegertracing) — distributed tracing infrastructure (CNCF)
+- **Meshery** (@meshery) — cloud-native management platform (CNCF)
+- **C2SI** (@c2siorg) — open source research org
+- **JSON Schema** (@json-schema-org) — specification and tooling
+
+Work spans frontend contributions, documentation, issue triage, and pull requests
+across 25+ repositories.
 
 </td>
 </tr>
@@ -48,10 +55,10 @@ Jaeger UI and Meshery (CNCF).
 <details>
 <summary><strong>Additional Work</strong></summary>
 
-- **MERN Chat Application** — full-stack chat with JWT/session auth and state sync  
-- **RFP Response Builder** — UI system for structuring unstructured documents  
-- **Streakly** — habit tracking with visual feedback loops  
-- **Netflix UI Clone** — responsive layout and component composition  
+- **Student Expense Tracker** — offline-first PWA using IndexedDB and Service Workers; privacy-first, no backend dependency
+- **RFP Response Builder** — UI system for structuring unstructured documents
+- **Streakly** — habit tracking with visual feedback loops
+- **Netflix UI Clone** — responsive layout and component composition
 
 </details>
 
@@ -69,10 +76,10 @@ Jaeger UI and Meshery (CNCF).
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/>
 </p>
 
-TypeScript · JavaScript · React · React Router · Redux · TanStack Query ·  
-HTML · CSS · Tailwind · Bootstrap · Flowbite · Responsive design ·  
-DOM APIs · Fetch API · Browser events · LocalStorage/SessionStorage · IndexedDB ·  
-PWA APIs · Service Workers · Web App Manifest · Offline caching  
+TypeScript · JavaScript · React · React Router · Redux · Zustand · TanStack Query ·  
+Framer Motion · HTML · CSS · Tailwind · Bootstrap · Flowbite · Responsive design ·  
+DOM APIs · Fetch API · WebSockets (Socket.io) · Browser events ·  
+LocalStorage/SessionStorage · IndexedDB · PWA APIs · Service Workers · Web App Manifest · Offline caching
 
 ---
 
@@ -83,9 +90,9 @@ PWA APIs · Service Workers · Web App Manifest · Offline caching
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
 </p>
 
-Node.js · Express · REST APIs · MVC architecture · Middleware patterns ·  
+Node.js · Express · REST APIs · WebSockets · Socket.io · MVC architecture · Middleware patterns ·  
 MongoDB · Mongoose · nanoid ·  
-JWT · Sessions · Cookies · bcrypt · RBAC concepts · Token lifecycle  
+JWT · Sessions · Cookies · bcrypt · RBAC concepts · Token lifecycle
 
 ---
 
@@ -98,7 +105,7 @@ JWT · Sessions · Cookies · bcrypt · RBAC concepts · Token lifecycle
 </p>
 
 Vercel · Render · Netlify · Firebase · GitHub Pages · MongoDB Atlas ·  
-Jekyll · Markdown · WordPress · Static site workflows  
+Jekyll · Markdown · WordPress · Static site workflows
 
 ---
 
@@ -113,12 +120,12 @@ Jekyll · Markdown · WordPress · Static site workflows
 
 Git · GitHub · npm · package.json scripts · ES Modules ·  
 Vite · Nodemon · Postman · Environment configs (.env) ·  
-Figma · Canva  
+Figma · Canva
 
 ---
 
 **AI & Data-Driven Apps**  
-OpenAI API · Google Gemini API · Groq API  
+OpenAI API · Google Gemini API · Groq API
 
 **Open Source & Learning**  
 Contributor — Meshery & Jaeger ecosystems  
@@ -126,11 +133,12 @@ Selected Contributor — SWoC
 Interested in frontend systems, developer tooling, and DX  
 Expanding into Go and Kubernetes
 
+---
 
 ## Contact
 
-- GitHub: https://github.com/TarunyaProgrammer  
-- LinkedIn: https://www.linkedin.com/in/tarunyakesharwani  
+- GitHub: https://github.com/TarunyaProgrammer
+- LinkedIn: https://www.linkedin.com/in/tarunyakesharwani
 
 ---
 
