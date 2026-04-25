@@ -7,8 +7,8 @@
 <img src="./show.jpg" alt="Workspace Aesthetic" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunyakesharwani)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TarunyaProgrammer)
-[![Profile Views](https://komarev.com/ghpvc/?username=TarunyaProgrammer&color=black&style=flat&label=Profile+Views)](https://github.com/TarunyaProgrammer)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/tarunyaio)
+[![Profile Views](https://komarev.com/ghpvc/?username=tarunyaio&color=000000&style=flat&label=Profile+Views)](https://github.com/tarunyaio)
 
 *I care about writing code that is easy to reason about today and safe to change tomorrow.*
 
@@ -25,12 +25,12 @@ I work across the full MERN stack (React, Node/Express, WebSockets), focusing on
 ### ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunyaProgrammer&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunyaio&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunyaio&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunyaProgrammer&theme=dark&background=000000&border=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunyaio&theme=dark&background=000000&border=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="150" alt="GitHub Streak" />
 </p>
 
 ---
