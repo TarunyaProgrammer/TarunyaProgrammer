@@ -1,145 +1,75 @@
-# Hi, I'm Tarunya
+<div align="center">
 
-Full-stack developer who builds things that hold up under real conditions —
-offline, at scale, and in production.
+# Hi, I'm Tarunya 🚀
 
-I work across the full MERN stack: React data architectures and browser APIs
-on the front, Node/Express with auth and persistence on the back, and
-WebSockets when state needs to stay in sync across clients in real time.
+**Full-stack developer building robust, offline-first, and real-time systems.**
 
-Currently going deeper on PWAs, frontend systems design, and cloud-native open source.
-## About
+<img src="./show.jpg" alt="Workspace Aesthetic" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
-I like working on problems where real-world constraints shape the solution —
-real-time sync, offline usage, imperfect data, and evolving requirements.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunyakesharwani)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TarunyaProgrammer)
+[![Profile Views](https://komarev.com/ghpvc/?username=TarunyaProgrammer&color=black&style=flat&label=Profile+Views)](https://github.com/TarunyaProgrammer)
 
-I value clarity over cleverness and aim to write code that remains understandable
-as systems grow.
+*I care about writing code that is easy to reason about today and safe to change tomorrow.*
 
-## Selected Work
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**[Echo — Real-Time Chat Application](https://echotarunya.vercel.app)**  
-Production-deployed MERN fullstack app.
+### ✦ About Me
 
-Built to work the way real chat does — instant delivery, live presence, secure sessions,
-and a UI that holds up on any screen. Engineered with Socket.io, Zustand, and JWT auth;
-documented well enough that someone else could contribute to it.
+I work across the full MERN stack (React, Node/Express, WebSockets), focusing on real-world constraints—like offline usage, imperfect data, and evolving requirements. Currently going deeper on PWAs, frontend systems design, and cloud-native open source. I value clarity over cleverness.
 
-*React · Node.js · Express · MongoDB · Socket.io · Zustand · Tailwind · JWT*
-</td>
-<td width="50%" valign="top">
+---
 
-**Open Source Contributions**
+### ✦ GitHub Stats
 
-I contribute to production codebases to understand how real systems are maintained
-at scale — how teams make decisions about consistency, DX, and long-term
-architecture.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunyaProgrammer&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunyaProgrammer&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="Top Languages" />
+</p>
 
-Active across multiple ecosystems:
-- **Jaeger** (@jaegertracing) — distributed tracing infrastructure (CNCF)
-- **Meshery** (@meshery) — cloud-native management platform (CNCF)
-- **C2SI** (@c2siorg) — open source research org
-- **JSON Schema** (@json-schema-org) — specification and tooling
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunyaProgrammer&theme=dark&background=000000&border=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="150" alt="GitHub Streak" />
+</p>
 
-Work spans frontend contributions, documentation, issue triage, and pull requests
-across 25+ repositories.
+---
 
-</td>
-</tr>
-</table>
+### ✦ Selected Work
+
+**🌐 Echo — Real-Time Chat Application**  
+Production-deployed MERN fullstack app built to work the way real chat does—instant delivery, live presence, secure sessions, and a UI that holds up on any screen.  
+*React · Node.js · Express · MongoDB · Socket.io · Tailwind*  
+[🔗 View Live](https://echotarunya.vercel.app)
+
+<br>
+
+**🌍 Open Source Contributions**  
+Active across multiple ecosystems including **Jaeger**, **Meshery**, **C2SI**, and **JSON Schema**. Work spans frontend, documentation, issue triage, and pull requests across 25+ repositories.
+
+<br>
 
 <details>
-<summary><strong>Additional Work</strong></summary>
-
-- **Student Expense Tracker** — offline-first PWA using IndexedDB and Service Workers; privacy-first, no backend dependency
-- **RFP Response Builder** — UI system for structuring unstructured documents
-- **Streakly** — habit tracking with visual feedback loops
-- **Netflix UI Clone** — responsive layout and component composition
-
+<summary><b>📂 Additional Projects</b></summary>
+<br>
+<ul>
+  <li><b>Student Expense Tracker:</b> Offline-first PWA using IndexedDB and Service Workers.</li>
+  <li><b>RFP Response Builder:</b> UI system for structuring unstructured documents.</li>
+  <li><b>Streakly:</b> Habit tracking with visual feedback loops.</li>
+  <li><b>Netflix UI Clone:</b> Responsive layout and component composition.</li>
+</ul>
 </details>
 
-## Tech Stack
+---
 
-**Frontend & Browser Platform**  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/>
-</p>
+### ✦ Tech Stack
 
-TypeScript · JavaScript · React · React Router · Redux · Zustand · TanStack Query ·  
-Framer Motion · HTML · CSS · Tailwind · Bootstrap · Flowbite · Responsive design ·  
-DOM APIs · Fetch API · WebSockets (Socket.io) · Browser events ·  
-LocalStorage/SessionStorage · IndexedDB · PWA APIs · Service Workers · Web App Manifest · Offline caching
+**💻 Frontend:** TypeScript, JavaScript, React, Redux, Zustand, HTML/CSS, Tailwind, PWAs, WebSockets  
+**⚙️ Backend:** Node.js, Express, MongoDB, Socket.io, REST APIs, JWT  
+**☁️ Tooling:** Vercel, Netlify, Firebase, Git/GitHub, Vite, Figma  
 
 ---
 
-**Backend, Data & Auth**  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
-</p>
-
-Node.js · Express · REST APIs · WebSockets · Socket.io · MVC architecture · Middleware patterns ·  
-MongoDB · Mongoose · nanoid ·  
-JWT · Sessions · Cookies · bcrypt · RBAC concepts · Token lifecycle
-
----
-
-**Cloud, Deployment & Platforms**  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
-</p>
-
-Vercel · Render · Netlify · Firebase · GitHub Pages · MongoDB Atlas ·  
-Jekyll · Markdown · WordPress · Static site workflows
-
----
-
-**Tooling & Workflow**  
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32"/>
-</p>
-
-Git · GitHub · npm · package.json scripts · ES Modules ·  
-Vite · Nodemon · Postman · Environment configs (.env) ·  
-Figma · Canva
-
----
-
-**AI & Data-Driven Apps**  
-OpenAI API · Google Gemini API · Groq API
-
-**Open Source & Learning**  
-Contributor — Meshery & Jaeger ecosystems  
-Selected Contributor — SWoC  
-Interested in frontend systems, developer tooling, and DX  
-Expanding into Go and Kubernetes
-
----
-
-## Contact
-
-- GitHub: https://github.com/TarunyaProgrammer
-- LinkedIn: https://www.linkedin.com/in/tarunyakesharwani
-
----
-
-I care about writing code that is easy to reason about today and safe to change tomorrow.
+<div align="center">
+  <i>Offline-capable · Scalable · Production-ready</i>
+</div>
