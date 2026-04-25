@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tarunya 🚀
+# Hi, I'm Tarunya
 
 **Full-stack developer building robust, offline-first, and real-time systems.**
 
