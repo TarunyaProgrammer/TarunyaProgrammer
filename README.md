@@ -2,15 +2,16 @@
 
 # Hi, I'm Tarunya
 
-**Full-stack developer building robust, offline-first, and real-time systems.**
+**CSE-AI Student @ Newton School of Technology | GSoC'25 Open Source Developer**
 
 <img src="./show.jpg" alt="Workspace Aesthetic" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunyakesharwani)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TarunyaProgrammer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://tarunyaportfolio.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=TarunyaProgrammer&color=000000&style=flat&label=Profile+Views)](https://github.com/TarunyaProgrammer)
 
-*I care about writing code that is easy to reason about today and safe to change tomorrow.*
+*I live by a simple loop: Learn → Build → Repeat.*
 
 </div>
 
@@ -18,9 +19,17 @@
 
 ### ✦ About Me
 
-I work across the full MERN stack (React, Node/Express, WebSockets), focusing on real-world constraints—like offline usage, imperfect data, and evolving requirements. Currently going deeper on PWAs, frontend systems design, and cloud-native open source. I value clarity over cleverness.
+I'm a CSE-AI undergraduate at the **Newton School of Technology** (NST'29). I work across the full MERN stack, focusing on real-world constraints—like offline usage, imperfect data, and evolving requirements. Currently diving deep into PWAs, frontend systems design, and cloud-native open source. I value clarity over cleverness.
 
 ---
+
+### ✦ Achivees
+
+*   **Google Summer of Code (GSoC'25):** Contributing to **C2SI** (Center for Cyber Security & Intelligence).
+*   **Mentor @ GSSoC'26:** Guiding contributors in the GirlScript Summer of Code ecosystem.
+*   **Project Owner @ SWOC:** Leading open-source initiatives during Social Winter of Code.
+*   **Winner @ Cognizance 2026:** Secured top position at IIT Roorkee's annual tech fest.
+*   **Hacktoberfest 2025:** Successfully contributed to multiple global open-source projects.
 
 ### ✦ GitHub Stats
 
@@ -45,7 +54,7 @@ Production-deployed MERN fullstack app built to work the way real chat does—in
 <br>
 
 **🌍 Open Source Contributions**  
-Active across multiple ecosystems including **Jaeger**, **Meshery**, **C2SI**, and **JSON Schema**. Work spans frontend, documentation, issue triage, and pull requests across 25+ repositories.
+Active contributor and mentor. Selected for **GSoC'25** with **C2SI**. Also active across ecosystems like **Jaeger**, **Meshery**, and **JSON Schema**. Work spans frontend architecture, documentation, and issue triage across 25+ repositories.
 
 <br>
 
@@ -53,10 +62,13 @@ Active across multiple ecosystems including **Jaeger**, **Meshery**, **C2SI**, a
 <summary><b>📂 Additional Projects</b></summary>
 <br>
 <ul>
-  <li><b>Student Expense Tracker:</b> Offline-first PWA using IndexedDB and Service Workers.</li>
-  <li><b>RFP Response Builder:</b> UI system for structuring unstructured documents.</li>
-  <li><b>Streakly:</b> Habit tracking with visual feedback loops.</li>
-  <li><b>Netflix UI Clone:</b> Responsive layout and component composition.</li>
+  <li><b><a href="https://github.com/TarunyaProgrammer/GlimOko">GlimOko:</a></b> Autonomous PR governance tool — surgical AI intelligence layer for engineering teams using Groq & TypeScript. <em>TypeScript · Groq · AI Agent · GitHub App</em></li>
+  <li><b><a href="https://github.com/TarunyaProgrammer/DevSignal-IntelligentDeveloperGrowth">DevSignal:</a></b> GitHub-powered developer intelligence platform transforming coding activity into growth insights. <em>React · TypeScript · Octokit · Redis</em></li>
+  <li><b><a href="https://github.com/TarunyaProgrammer/vyay-aiCreditsAuditer">Vyay:</a></b> Professional-grade AI expenditure audit platform for engineering orgs — identifies service redundancies and cost optimizations. <em>React · TypeScript · Vite · FinOps</em></li>
+  <li><b><a href="https://github.com/TarunyaProgrammer/GithubAnalyzer-PreGsocTask">GitHub Analyzer:</a></b> Production-grade repository intelligence engine with real-time analysis pipeline, caching, and microservices. <em>Node.js · Docker · TypeScript</em></li>
+  <li><b><a href="https://github.com/TarunyaProgrammer/MoodCast-WeatherNSongs">MoodCast:</a></b> React app recommending music based on user mood and real-time weather via public APIs. <em>React · JavaScript · YouTube API · Weather API</em></li>
+  <li><b>Social Winter of Code (SWOC):</b> Open-source contributions across frontend components and GitHub issue resolution.</li>
+  <li><b><a href="https://github.com/TarunyaProgrammer/Student-expense-tracker">Student Expense Tracker:</a></b> Privacy-first offline PWA + Chrome Extension for expense tracking. <em>JavaScript · Firebase · PWA</em></li>
 </ul>
 </details>
 
@@ -64,12 +76,16 @@ Active across multiple ecosystems including **Jaeger**, **Meshery**, **C2SI**, a
 
 ### ✦ Tech Stack
 
-**💻 Frontend:** TypeScript, JavaScript, React, Redux, Zustand, HTML/CSS, Tailwind, PWAs, WebSockets  
-**⚙️ Backend:** Node.js, Express, MongoDB, Socket.io, REST APIs, JWT  
-**☁️ Tooling:** Vercel, Netlify, Firebase, Git/GitHub, Vite, Figma  
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Systems** | TypeScript · NestJS · Node.js · MongoDB · REST/OpenAPI |
+| **Frontend** | Angular · React · Tailwind CSS · Zustand · TanStack Query |
+| **Infra & DevOps** | Docker · Kubernetes (Learning) · CI/CD · Vercel · Render |
+| **Architecture** | System Design · WebSockets · Redis · Event-Driven Architecture |
+| **Tools & AI** | OpenAI SDKs · Groq · Git · Figma · Postman |
 
 ---
 
 <div align="center">
-  <i>Offline-capable · Scalable · Production-ready</i>
+  <i>Systems Engineering · Open Source · AI Integration</i>
 </div>
