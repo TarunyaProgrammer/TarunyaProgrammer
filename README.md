@@ -2,7 +2,7 @@
 
 # Hi, I'm Tarunya
 
-**CSE-AI Student @ Newton School of Technology | GSoC'25 Open Source Developer**
+**CSE-AI Student @ Newton School of Technology | GSoC'26 Open Source Developer**
 
 <img src="./show.jpg" alt="Workspace Aesthetic" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
@@ -25,7 +25,7 @@ I'm a CSE-AI undergraduate at the **Newton School of Technology** (NST'29). I wo
 
 ### ✦ Achivees
 
-*   **Google Summer of Code (GSoC'25):** Contributing to **C2SI** (Center for Cyber Security & Intelligence).
+*   **Google Summer of Code (GSoC'26):** Contributing to **C2SI** (Center for Cyber Security & Intelligence).
 *   **Mentor @ GSSoC'26:** Guiding contributors in the GirlScript Summer of Code ecosystem.
 *   **Project Owner @ SWOC:** Leading open-source initiatives during Social Winter of Code.
 *   **Winner @ Cognizance 2026:** Secured top position at IIT Roorkee's annual tech fest.
@@ -54,7 +54,7 @@ Production-deployed MERN fullstack app built to work the way real chat does—in
 <br>
 
 **🌍 Open Source Contributions**  
-Active contributor and mentor. Selected for **GSoC'25** with **C2SI**. Also active across ecosystems like **Jaeger**, **Meshery**, and **JSON Schema**. Work spans frontend architecture, documentation, and issue triage across 25+ repositories.
+Active contributor and mentor. Selected for **GSoC'26** with **C2SI**. Also active across ecosystems like **Jaeger**, **Meshery**, and **JSON Schema**. Work spans frontend architecture, documentation, and issue triage across 25+ repositories.
 
 <br>
 
