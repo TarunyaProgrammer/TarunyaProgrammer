@@ -27,7 +27,7 @@ I'm a CSE-AI undergraduate at the **Newton School of Technology** (NST'29). I wo
 
 *   **Google Summer of Code (GSoC'26):** Contributing to **C2SI** (Center for Cyber Security & Intelligence).
 *   **Mentor @ GSSoC'26:** Guiding contributors in the GirlScript Summer of Code ecosystem.
-*   **Project Owner @ SWOC:** Leading open-source initiatives during Social Winter of Code.
+*   **Contributed @ SWOC:** Leading open-source initiatives during Social Winter of Code.
 *   **Winner @ Cognizance 2026:** Secured top position at IIT Roorkee's annual tech fest.
 *   **Hacktoberfest 2025:** Successfully contributed to multiple global open-source projects.
 
