@@ -14,7 +14,7 @@
 
 | ✦ Focus | ✦ Open Source & Milestones | ✦ Connect |
 | :--- | :--- | :--- |
-| Systems Design<br>Developer Experience<br>Distributed Architecture | GSoC'26 Developer @ C2SI<br>Mentor @ GSSoC'26 & SSOC<br>Winner @ Cognizance IIT Roorkee | [LinkedIn](https://www.linkedin.com/in/tarunyakesharwani)<br>[GitHub](https://github.com/TarunyaProgrammer)<br>[Portfolio](https://tarunyaportfolio.vercel.app)<br>[Medium](https://medium.com/@tarunyakesh) · [Dev.to](https://dev.to/tarunya) |
+| Systems Design<br>Developer Experience<br>Distributed Architecture | GSoC'26 Developer @ C2SI<br>Mentor @ GSSoC'26 & SSOC<br>Winner @ Cognizance IIT Roorkee | [LinkedIn](https://www.linkedin.com/in/tarunyakesharwani)<br>[GitHub](https://github.com/TarunyaProgrammer)<br>[Portfolio](https://tarunyaportfolio.vercel.app)<br>[Medium](https://medium.com/@tarunyakesh)<br>[Dev.to](https://dev.to/tarunya) |
 
 <br>
 
