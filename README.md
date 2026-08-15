@@ -46,10 +46,6 @@ I'm a CSE-AI undergraduate at the **Newton School of Technology** (NST'29). I en
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunyaProgrammer&theme=dark&background=000000&border=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="150" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/TarunyaProgrammer/TarunyaProgrammer/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
