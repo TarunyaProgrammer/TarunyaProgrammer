@@ -10,6 +10,7 @@
 <img src="./show.jpg" alt="Workspace Aesthetic" style="width: 100%; max-width: 800px; border-radius: 10px; margin: 18px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
 
 <br>
+<br>
 
 | ✦ Focus | ✦ Open Source & Milestones | ✦ Connect |
 | :--- | :--- | :--- |
