@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#377](https://github.com/c2siorg/Webiu/pull/377) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
-2. 🚀 Published release [Stable Version 3.0.0](https://github.com/Stable Version 3.0.0) in [TarunyaProgrammer/Portfoilio](https://github.com/TarunyaProgrammer/Portfoilio)
-3. 🗣 Commented on [#735](https://github.com/c2siorg/Webiu/issues/735) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
-4. ❌ Labeled PR [#735](https://github.com/c2siorg/Webiu/pull/735) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
-5. 💪 Opened PR [#735](https://github.com/c2siorg/Webiu/pull/735) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+1. 🗣 Commented on [#32](https://github.com/c2siorg/GSoC/issues/32) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
+2. 💪 Opened PR [#32](https://github.com/c2siorg/GSoC/pull/32) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
+3. ❌ Assigned PR [#377](https://github.com/c2siorg/Webiu/pull/377) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+4. 🚀 Published release [Stable Version 3.0.0](https://github.com/Stable Version 3.0.0) in [TarunyaProgrammer/Portfoilio](https://github.com/TarunyaProgrammer/Portfoilio)
+5. 🗣 Commented on [#735](https://github.com/c2siorg/Webiu/issues/735) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
 <!--END_SECTION:activity-->
 
 ---
