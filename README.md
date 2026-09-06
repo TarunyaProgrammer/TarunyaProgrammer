@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#725](https://github.com/c2siorg/Webiu/pull/725) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
-2. ❌ Merged PR [#735](https://github.com/c2siorg/Webiu/pull/735) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
-3. ❌ Merged PR [#32](https://github.com/c2siorg/GSoC/pull/32) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
-4. 🗣 Commented on [#32](https://github.com/c2siorg/GSoC/issues/32) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
-5. 💪 Opened PR [#32](https://github.com/c2siorg/GSoC/pull/32) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
+1. 🗣 Commented on [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+2. ❗ Opened issue [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+3. 🗣 Commented on [#1528](https://github.com/AOSSIE-Org/PictoPy/issues/1528) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+4. ❗ Opened issue [#1528](https://github.com/AOSSIE-Org/PictoPy/issues/1528) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+5. 🔒 Assigned issue [#728](https://github.com/c2siorg/Webiu/issues/728) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
 <!--END_SECTION:activity-->
 
 ---
