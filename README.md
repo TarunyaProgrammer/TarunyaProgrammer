@@ -3,7 +3,7 @@
 # Tarunya Kesharwani
 
 **CSE-AI Undergraduate @ Newton School of Technology (NST'29)**  
-*Systems Engineering · Developer Tooling · Cloud-Native Open Source*
+*GSoC'26 · Systems Engineering · Developer Tooling · Cloud-Native Open Source*
 
 <br>
 
