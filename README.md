@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
-2. ❗ Opened issue [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
-3. 🗣 Commented on [#1528](https://github.com/AOSSIE-Org/PictoPy/issues/1528) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
-4. ❗ Opened issue [#1528](https://github.com/AOSSIE-Org/PictoPy/issues/1528) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
-5. 🔒 Assigned issue [#728](https://github.com/c2siorg/Webiu/issues/728) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+1. 🗣 Commented on [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+2. 🔒 Unassigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+3. 🔒 Assigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+4. 🗣 Commented on [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+5. ❗ Opened issue [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
 <!--END_SECTION:activity-->
 
 ---
