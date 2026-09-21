@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
-2. 🔒 Unassigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
-3. 🔒 Assigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
-4. 🗣 Commented on [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
-5. ❗ Opened issue [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+1. ❌ Closed PR [#4](https://github.com/TarunyaProgrammer/Dynamic_Island/pull/4) in [TarunyaProgrammer/Dynamic_Island](https://github.com/TarunyaProgrammer/Dynamic_Island)
+2. 🗣 Commented on [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+3. 🔒 Unassigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+4. 🔒 Assigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+5. 🗣 Commented on [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
 <!--END_SECTION:activity-->
 
 ---
