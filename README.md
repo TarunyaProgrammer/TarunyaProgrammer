@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/TarunyaProgrammer/Dynamic_Island/pull/4) in [TarunyaProgrammer/Dynamic_Island](https://github.com/TarunyaProgrammer/Dynamic_Island)
-2. 🗣 Commented on [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
-3. 🔒 Unassigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
-4. 🔒 Assigned issue [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
-5. 🗣 Commented on [#1529](https://github.com/AOSSIE-Org/PictoPy/issues/1529) in [AOSSIE-Org/PictoPy](https://github.com/AOSSIE-Org/PictoPy)
+1. 🗣 Commented on [#737](https://github.com/c2siorg/Webiu/issues/737) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+2. ❌ Assigned PR [#143](https://github.com/niharika-mente/DevEvent_Tracker/pull/143) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
+3. 🔒 Assigned issue [#737](https://github.com/c2siorg/Webiu/issues/737) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+4. ❌ Closed PR [#4](https://github.com/TarunyaProgrammer/Dynamic_Island/pull/4) in [TarunyaProgrammer/Dynamic_Island](https://github.com/TarunyaProgrammer/Dynamic_Island)
+5. 🗣 Commented on [#70](https://github.com/niharika-mente/DevEvent_Tracker/issues/70) in [niharika-mente/DevEvent_Tracker](https://github.com/niharika-mente/DevEvent_Tracker)
 <!--END_SECTION:activity-->
 
 ---
