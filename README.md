@@ -102,8 +102,8 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](https://github.com/TarunyaProgrammer/LeetSync/pull/2) in [TarunyaProgrammer/LeetSync](https://github.com/TarunyaProgrammer/LeetSync)
-2. 💪 Opened PR [#3](https://github.com/TarunyaProgrammer/LeetSync/pull/3) in [TarunyaProgrammer/LeetSync](https://github.com/TarunyaProgrammer/LeetSync)
+1. 🗣 Commented on [#743](https://github.com/c2siorg/Webiu/issues/743) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+2. 🔒 Assigned issue [#739](https://github.com/c2siorg/Webiu/issues/739) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
 3. 💪 Opened PR [#2](https://github.com/TarunyaProgrammer/LeetSync/pull/2) in [TarunyaProgrammer/LeetSync](https://github.com/TarunyaProgrammer/LeetSync)
 4. ❌ Merged PR [#1](https://github.com/TarunyaProgrammer/LeetSync/pull/1) in [TarunyaProgrammer/LeetSync](https://github.com/TarunyaProgrammer/LeetSync)
 5. 💪 Opened PR [#1](https://github.com/TarunyaProgrammer/LeetSync/pull/1) in [TarunyaProgrammer/LeetSync](https://github.com/TarunyaProgrammer/LeetSync)
