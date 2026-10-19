@@ -102,8 +102,8 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/EncrypterParv/Finora/issues/1) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
-2. 🗣 Commented on [#744](https://github.com/c2siorg/Webiu/issues/744) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
+1. 💪 Opened PR [#3](https://github.com/EncrypterParv/Finora/pull/3) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
+2. 💪 Opened PR [#2](https://github.com/EncrypterParv/Finora/pull/2) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
 3. 🗣 Commented on [#740](https://github.com/c2siorg/Webiu/issues/740) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
 4. 🗣 Commented on [#743](https://github.com/c2siorg/Webiu/issues/743) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
 5. 🔒 Assigned issue [#739](https://github.com/c2siorg/Webiu/issues/739) in [c2siorg/Webiu](https://github.com/c2siorg/Webiu)
