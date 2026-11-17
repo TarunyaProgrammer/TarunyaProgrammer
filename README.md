@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](https://github.com/EncrypterParv/Finora_DE_2026/pull/4) in [EncrypterParv/Finora_DE_2026](https://github.com/EncrypterParv/Finora_DE_2026)
-2. 💪 Opened PR [#4](https://github.com/EncrypterParv/Finora_DE_2026/pull/4) in [EncrypterParv/Finora_DE_2026](https://github.com/EncrypterParv/Finora_DE_2026)
-3. ❌ Merged PR [#3](https://github.com/EncrypterParv/Finora_DE_2026/pull/3) in [EncrypterParv/Finora_DE_2026](https://github.com/EncrypterParv/Finora_DE_2026)
-4. 💪 Opened PR [#3](https://github.com/EncrypterParv/Finora_DE_2026/pull/3) in [EncrypterParv/Finora_DE_2026](https://github.com/EncrypterParv/Finora_DE_2026)
-5. ❌ Assigned PR [#3](https://github.com/EncrypterParv/Finora_DE_2026/pull/3) in [EncrypterParv/Finora_DE_2026](https://github.com/EncrypterParv/Finora_DE_2026)
+1. ❌ Merged PR [#6](https://github.com/TarunyaProgrammer/GithubSpy/pull/6) in [TarunyaProgrammer/GithubSpy](https://github.com/TarunyaProgrammer/GithubSpy)
+2. 💪 Opened PR [#6](https://github.com/TarunyaProgrammer/GithubSpy/pull/6) in [TarunyaProgrammer/GithubSpy](https://github.com/TarunyaProgrammer/GithubSpy)
+3. ❌ Closed PR [#5](https://github.com/TarunyaProgrammer/GithubSpy/pull/5) in [TarunyaProgrammer/GithubSpy](https://github.com/TarunyaProgrammer/GithubSpy)
+4. ❌ Merged PR [#1](https://github.com/EncrypterParv/Finora_AP_2026/pull/1) in [EncrypterParv/Finora_AP_2026](https://github.com/EncrypterParv/Finora_AP_2026)
+5. ❌ Assigned PR [#1](https://github.com/EncrypterParv/Finora_AP_2026/pull/1) in [EncrypterParv/Finora_AP_2026](https://github.com/EncrypterParv/Finora_AP_2026)
 <!--END_SECTION:activity-->
 
 ---
