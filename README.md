@@ -102,11 +102,11 @@ Active contributor and mentor across 25+ open-source repositories. Core contribu
 ### ✦ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#31](https://github.com/EncrypterParv/Finora/pull/31) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
-2. ❌ Labeled PR [#31](https://github.com/EncrypterParv/Finora/pull/31) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
-3. ❌ Labeled PR [#31](https://github.com/EncrypterParv/Finora/pull/31) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
-4. ❌ Labeled PR [#31](https://github.com/EncrypterParv/Finora/pull/31) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
-5. ❌ Labeled PR [#31](https://github.com/EncrypterParv/Finora/pull/31) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
+1. ❌ Merged PR [#33](https://github.com/EncrypterParv/Finora/pull/33) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
+2. 💪 Opened PR [#33](https://github.com/EncrypterParv/Finora/pull/33) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
+3. ❌ Merged PR [#32](https://github.com/EncrypterParv/Finora/pull/32) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
+4. 💪 Opened PR [#32](https://github.com/EncrypterParv/Finora/pull/32) in [EncrypterParv/Finora](https://github.com/EncrypterParv/Finora)
+5. ❌ Merged PR [#2](https://github.com/TarunyaProgrammer/FinSOL2/pull/2) in [TarunyaProgrammer/FinSOL2](https://github.com/TarunyaProgrammer/FinSOL2)
 <!--END_SECTION:activity-->
 
 ---
